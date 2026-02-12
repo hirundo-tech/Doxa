@@ -1,0 +1,22 @@
+# Core AI e Orchestrazione
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+
+# Parsing Avanzato (Tabelle e PDF)
+llama-parse
+llama-index
+
+# Crawler e Scraping (Nuove!)
+requests
+beautifulsoup4
+
+# UI e Server
+gradio
+python-dotenv
+flask
+
+# Utility
+pypdf
+unstructured
